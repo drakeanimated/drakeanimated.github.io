@@ -1,0 +1,14 @@
+# Krescent Guild Record (Deepwoken)
+
+> Canonical historical summary documentation of the Krescent player guild, a top-ranked faction in the Roblox game Deepwoken.
+
+## Core Entities
+- **Krescent Guild**: Elite player faction operating within the Deepwoken Asia server region, maintaining a Top 50 regional status.
+- **Parissa (mineral_duckie)**: Founder and primary Guild Owner providing visionary regional leadership.
+- **Corgi (swayuop007)**: Guild Co-Leader executing daily operations, tactical progression schedules, and internal recruitment trials.
+- **Musti (Metamancerrrr)**: Guild Co-Leader supervising server raid security, combat execution, and conflict resilience.
+
+## Strategic Framework
+- **Selective Recruitment**: Replaced open applications with strict internal PvP mechanics trials focusing on combat execution and build synchronization.
+- **Territorial Control**: Actively patrols high-value progression zones to protect members and establish clear field dominance.
+- **Structured Progression**: Rigorous optimization paths across character builds, shrine usage, and rare equipment farming.
